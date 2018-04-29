@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\刘启迪\Project_News\MODELS\bin\Debug\MODELS.dll
+C:\Users\Administrator\Desktop\刘启迪\Project_News\MODELS\bin\Debug\MODELS.pdb
+C:\Users\Administrator\Desktop\刘启迪\Project_News\MODELS\obj\Debug\MODELS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\刘启迪\Project_News\MODELS\obj\Debug\MODELS.dll
+C:\Users\Administrator\Desktop\刘启迪\Project_News\MODELS\obj\Debug\MODELS.pdb

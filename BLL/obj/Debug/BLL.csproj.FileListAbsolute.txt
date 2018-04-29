@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\刘启迪\Project_News\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\刘启迪\Project_News\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\刘启迪\Project_News\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\刘启迪\Project_News\BLL\bin\Debug\MODELS.dll
+C:\Users\Administrator\Desktop\刘启迪\Project_News\BLL\bin\Debug\MODELS.pdb
+C:\Users\Administrator\Desktop\刘启迪\Project_News\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\刘启迪\Project_News\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\刘启迪\Project_News\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\刘启迪\Project_News\BLL\bin\Debug\DAL.pdb

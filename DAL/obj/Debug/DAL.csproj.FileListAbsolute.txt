@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\刘启迪\Project_News\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\刘启迪\Project_News\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\刘启迪\Project_News\DAL\bin\Debug\MODELS.dll
+C:\Users\Administrator\Desktop\刘启迪\Project_News\DAL\bin\Debug\MODELS.pdb
+C:\Users\Administrator\Desktop\刘启迪\Project_News\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\刘启迪\Project_News\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\刘启迪\Project_News\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
